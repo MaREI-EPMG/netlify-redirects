@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://epmg.netlify.app/study-name/:splat"
+  to = "https://epmg.netlify.app/tim-energy-security-2022/:splat"
   status = 301
   force = true
